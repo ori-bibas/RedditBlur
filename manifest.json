@@ -1,0 +1,6 @@
+{
+    "manifest_version": 2,
+    "name": "RedditBlur",
+    "description": "A chrome extension to blur your reddit username.",
+    "version": "1.0"
+}
